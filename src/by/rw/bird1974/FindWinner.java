@@ -17,8 +17,8 @@ public class FindWinner {
         competitors.add("Ivan 6");
         competitors.add("Alex 5");
         competitors.add("Ivan 1");
-        competitors.add("Alex 1");
         competitors.add("Petr 5");
+        competitors.add("Alex 1");
 
         showWinner(competitors);
     }
